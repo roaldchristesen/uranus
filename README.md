@@ -1,4 +1,5 @@
-# Uranus – Digitally Mapping and Providing the Event Landscape
+# Uranus
+## Digitally Mapping and Providing the Event Landscape
 
 _Disclaimer: This repository and the associated database are currently in a beta version. Some aspects of the code and data may still contain errors. Please contact us via email or create an issue on GitHub if you discover any issues._
 
